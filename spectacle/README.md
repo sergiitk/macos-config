@@ -4,4 +4,4 @@
 cp -v Shortcuts.json "/Users/sergii/Library/Application Support/Spectacle/"
 ```
 
-![Setup](https://octodex.github.com/images/yaktocat.png)
+![Config](https://github.com/sergii-tkachenko/macos-config/raw/master/spectacle/spectacle-1.2.png)
